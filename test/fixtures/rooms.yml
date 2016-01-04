@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  roomid: MyString
+  roomtype: MyString
+  bed: 1
+  restroom: 1
+  price: 1
+  checkin: 2016-01-04
+  checkout: 2016-01-04
+  taken: false
+
+two:
+  roomid: MyString
+  roomtype: MyString
+  bed: 1
+  restroom: 1
+  price: 1
+  checkin: 2016-01-04
+  checkout: 2016-01-04
+  taken: false
